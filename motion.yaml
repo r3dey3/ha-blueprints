@@ -2,7 +2,7 @@ blueprint:
   name: Motion-activated Thing
   description: Turn on a light/switch when motion is detected.
   domain: automation
-  source_url: 
+  source_url: https://github.com/r3dey3/ha-blueprints/blob/main/motion.yaml
   author: r3dey3
   input:
     motion_entity:
